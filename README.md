@@ -1,0 +1,2 @@
+התעוד בגוגל SHEET:
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data-green?style=flat&logo=googlesheets)]([URL_של_הגיליון_שלכם](https://docs.google.com/spreadsheets/d/1Jqbtg6QvvhoIMnQ9fFewEop6gDRdNm_m2OwEMdZ5HDc/edit?usp=sharing))
